@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA 
 - 👀 I’m interested in ... Data science 
 - 🌱 I’m currently learning ...web development/algorithms/python
+- Currently working on Artifical Intelligence Research Paper . 
 -😄 Pronouns : He/Him
 -📫 How to reach me: soumobrata14@gmail.com
 -⚡ Interesting fact: I like Mathematics 
