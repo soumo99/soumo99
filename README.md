@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA (DATA SCIENTIST)
 - 👀 I’m interested in ... Data science and python development
-- Currently working on Artifical Intelligence Research Paper . 
+- Currently working on Sequential Pattern Mining Research Paper . 
 -😄 Pronouns : He/Him
 -📫 How to reach me: soumobrata14@gmail.com
 -⚡ Interesting fact: I like Mathematics 
