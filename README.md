@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA (DATA SCIENTIST)
 
-- 👀 I’m interested in ... Data science and python 
+- 👀 I’m interested in ... Data Science, Python and Machine Learning 
 
 -😄 Pronouns : He/Him
 
