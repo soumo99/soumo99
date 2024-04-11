@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA (DATA SCIENTIST)
+- 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA (DATA ANALYST)
 
 - 👀 I’m interested in ... Data Science, Python and Machine Learning 
 
 -📫 How to reach me: Email - manna.soumo22@gmail.com || LinkedIn - linkedin.com/in/soumobrata-manna-b08582199
-
--⚡ Interesting fact: I like Mathematics and Basketball 🏀
 
 - I code to fabricate and am eager to innovate out-of-the-box solutions :)
 
