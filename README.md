@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA (DATA ANALYST)
+- 👋 Hi, I’m @soumo99 / SOUMOBRATA MANNA (SENIOR DATA ANALYST)
 
 - 👀 I’m interested in ... Data Science, Python and Machine Learning 
 
